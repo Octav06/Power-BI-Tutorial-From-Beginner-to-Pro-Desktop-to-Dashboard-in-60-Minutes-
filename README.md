@@ -1,6 +1,7 @@
 # Power-BI-Tutorial-From-Beginner-to-Pro-Desktop-to-Dashboard-in-60-Minutes-
 🚀 I completed the "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰" course by instructor Avi Singh. 
 
+
 Here's what I learned:  
 
 ✨ I mastered Query Editor to manage data easily. 
@@ -12,6 +13,7 @@ Here's what I learned:
 ✨ Created engaging reports. 
 
 Now, check out my Adventure Works final dashboard! This dashboard represents all I've learned. 
+
 
 Here's how I can help:
 
