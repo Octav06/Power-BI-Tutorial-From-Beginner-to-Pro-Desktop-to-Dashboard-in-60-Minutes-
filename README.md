@@ -24,3 +24,5 @@ Here's how I can help:
 📊 Make cool and useful dashboards.
 
 🤝 Share these insights seamlessly.
+
+![image](https://github.com/Octav06/Power-BI-Tutorial-From-Beginner-to-Pro-Desktop-to-Dashboard-in-60-Minutes-/assets/92667271/a89e9d95-bb42-46aa-9c65-fb7adb6d4ca7)
