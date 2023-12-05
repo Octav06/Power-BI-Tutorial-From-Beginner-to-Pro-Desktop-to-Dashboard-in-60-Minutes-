@@ -7,7 +7,9 @@ Here's what I learned:
 ✨ Used DAX Measures for smart calculations. 
 ✨ Created engaging reports. 
 
-Now, check out my Adventure Works final dashboard! This dashboard represents all I've learned. Here's how I can help:
+Now, check out my Adventure Works final dashboard! This dashboard represents all I've learned. 
+
+Here's how I can help:
 
 🔍 Share and create reports easily.
 🌐 Keep all data in one place for better insights.
